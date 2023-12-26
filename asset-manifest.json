@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/host_react_demo/static/css/main.039476dd.css",
+    "main.js": "/host_react_demo/static/js/main.1d0d9c15.js",
+    "index.html": "/host_react_demo/index.html",
+    "main.039476dd.css.map": "/host_react_demo/static/css/main.039476dd.css.map",
+    "main.1d0d9c15.js.map": "/host_react_demo/static/js/main.1d0d9c15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.039476dd.css",
+    "static/js/main.1d0d9c15.js"
+  ]
+}
